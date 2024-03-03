@@ -10,7 +10,6 @@ export function Footer() {
               <div className="inline-flex items-center">
               <img  width={30} height={30} src="./binary-code.png" alt="icon" />
 
-                <span className="ml-4 text-lg font-bold">DevUI</span>
               </div>
             </a>
           </div>

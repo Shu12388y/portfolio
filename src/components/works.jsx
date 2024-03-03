@@ -9,7 +9,7 @@ function Works() {
         <div className="flex flex-col gap-10 items-center justify-center mt-10 w-screen md:flex-row">
           <div className="w-[300px] rounded-md border">
             <img
-              src="https://private-user-images.githubusercontent.com/91714143/302040087-e65a8e87-c48f-48a6-b73b-2b886f3679b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0NjE3NTQsIm5iZiI6MTcwOTQ2MTQ1NCwicGF0aCI6Ii85MTcxNDE0My8zMDIwNDAwODctZTY1YThlODctYzQ4Zi00OGE2LWI3M2ItMmI4ODZmMzY3OWI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDEwMjQxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyZjY5MjE3YzNmOGNmNTI0NmI5NGI2OTIyMWQ4MzFkM2VlNGZhMjAxNGZhM2RkZTBhZDVkNDM2YmRlODY0N2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.x1EbpV1tz_hXJII0QlBVjqQ7SaRc1018HU9MfYrB06A"
+              src="./public/302040087-e65a8e87-c48f-48a6-b73b-2b886f3679b4.png"
               alt="Laptop"
               className="h-[200px] w-full rounded-md object-cover"
             />
@@ -59,7 +59,7 @@ function Works() {
 
           <div className="w-[300px] rounded-md border">
             <img
-              src="https://private-user-images.githubusercontent.com/91714143/251490110-8b29450e-cc96-4619-b11b-c1b5114f9d36.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk0NjIxNjQsIm5iZiI6MTcwOTQ2MTg2NCwicGF0aCI6Ii85MTcxNDE0My8yNTE0OTAxMTAtOGIyOTQ1MGUtY2M5Ni00NjE5LWIxMWItYzFiNTExNGY5ZDM2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzAzVDEwMzEwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlZjM4OTgyODVhOTQxNjNlNjg1YTBjNmFjZmIyYTg1Y2Y3M2VkMjgwMjdmZWJmMmU4NTFiYjMwZjcyNmU3MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.U7QYQ-Iyd1V_hvAUPQ5yJZPPMgeOhmqztOa2j1z7kL0"
+              src="./public/251490110-8b29450e-cc96-4619-b11b-c1b5114f9d36.png"
               alt="Laptop"
               className="h-[200px] w-full rounded-md object-cover"
             />

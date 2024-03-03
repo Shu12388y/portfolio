@@ -3,6 +3,8 @@ import { NavBar } from "./components/NavBar";
 import HeroSection from "./components/HeroSection";
 import Skills from "./components/Skills";
 import { Avatar } from "./components/Avatar";
+import Works from "./components/Works";
+import { Footer } from "./components/Footer";
 function App() {
   return (
     <>
@@ -10,11 +12,15 @@ function App() {
       <section id="about">
         <HeroSection />
       </section>
-      <section >
+      <section>
         <Skills />
       </section>
+
       <section>
-        <Avatar/>
+        <Works />
+      </section>
+      <section>
+        <Footer/>
       </section>
     </>
   );

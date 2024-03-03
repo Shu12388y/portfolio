@@ -5,7 +5,7 @@ import HeroImage from "../../public/Code typing-bro.svg"
 function HeroSection() {
   return (
     <div>
-        <div className='text-4xl font-bold text-center mt-56'>
+        <div className='text-4xl font-bold text-center mt-20 md:mt-56'>
             <h1>FullStack Developer & Open Source Developer</h1>
         </div>
         <div className='text-xl font-semibold text-center mt-10 mb-10'>
@@ -17,7 +17,7 @@ function HeroSection() {
         <div className='flex flex-1 items-center justify-center mt-10'>
             <img src={HeroImage} alt="" width={700} height={700} />
         </div>
-        <div className='bg-gradient-to-r from-cyan-500 to-blue-500 p-40 mt-[-90px]'>
+        <div className='bg-gradient-to-r from-cyan-500 to-blue-500 p-20 mt-[-90px] w-screen md:p-40'>
             <div className='text-center text-4xl font-bold text-white '>
                 <h1>Hi, I’m Shubham. Nice to meet you.</h1>
             </div>

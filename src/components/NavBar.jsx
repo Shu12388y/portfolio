@@ -4,15 +4,15 @@ import { Menu, X } from 'lucide-react'
 const menuItems = [
   {
     name: 'Home',
-    href: '#',
+    href: '/',
   },
   {
     name: 'About',
-    href: '#',
+    href: '#about',
   },
   {
     name: 'Contact',
-    href: '#',
+    href: '/contact',
   },
 ]
 
@@ -24,7 +24,7 @@ export function NavBar() {
   }
 
   return (
-    <div className="relative w-full bg-white">
+    <div className="relative w-full bg-white pt-3">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8">
         <div className="inline-flex items-center space-x-2">
           <span>
@@ -44,7 +44,7 @@ export function NavBar() {
           <span className="font-bold">DevUI</span>
         </div>
         <div className="hidden lg:block">
-          <ul className="inline-flex space-x-8">
+          <ul className="inline-flex space-x-8 text-3xl ">
             {menuItems.map((item) => (
               <li key={item.name}>
                 <a
@@ -60,9 +60,9 @@ export function NavBar() {
         <div className="hidden lg:block">
           <button
             type="button"
-            className="rounded-md bg-black px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
+            className="rounded-md bg-blue-400 px-3 py-2 text-sm font-semibold text-white shadow-sm  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
           >
-            Button text
+            Hire Me
           </button>
         </div>
         <div className="lg:hidden">

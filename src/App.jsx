@@ -7,10 +7,10 @@ function App() {
   return (
     <>
       <NavBar />
-      <section>
+      <section id="about">
         <HeroSection />
       </section>
-      <section>
+      <section >
         <Skills />
       </section>
       <section>

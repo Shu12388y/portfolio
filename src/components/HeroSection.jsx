@@ -18,7 +18,7 @@ function HeroSection() {
             <img src={HeroImage} alt="" width={700} height={700} />
         </div>
         <div className='bg-gradient-to-r from-cyan-500 to-blue-500 p-40 mt-[-90px]'>
-            <div className='text-center text-4xl font-bold text-white'>
+            <div className='text-center text-4xl font-bold text-white '>
                 <h1>Hi, I’m Shubham. Nice to meet you.</h1>
             </div>
             <div className='text-center mt-10 text-white '>
